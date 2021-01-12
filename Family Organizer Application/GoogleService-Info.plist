@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>840283605382-joi5sh429u1lh68li1bqoe9uq4e1r2g7.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.840283605382-joi5sh429u1lh68li1bqoe9uq4e1r2g7</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>840283605382-b738mcvdsfb8n6mgi55ar1ves2a1j16p.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyACqxBf4mkyJqNE7gyONmdTuGb6sfcTKVA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>840283605382</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.fao</string>
+	<key>PROJECT_ID</key>
+	<string>testefirebase-5a25d</string>
+	<key>STORAGE_BUCKET</key>
+	<string>testefirebase-5a25d.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:840283605382:ios:bd0fcb36d2cbf22d038407</string>
+	<key>DATABASE_URL</key>
+	<string>https://testefirebase-5a25d.firebaseio.com</string>
+</dict>
+</plist>

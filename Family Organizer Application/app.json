@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "scheme": "fao",
+    "name": "FAO",
+    "slug": "FAO",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/Family-Organizer-App-Icon.png",
+    "splash": {
+      "image": "./assets/Family-Organizer-App-Splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": false
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "android": {
+      "package": "com.fao",
+      "googleServicesFile": "./google-services.json"
+    },
+    "description": ""
+  }
+}

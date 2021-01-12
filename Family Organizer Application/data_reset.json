@@ -1,0 +1,106 @@
+{
+  "Categories": {
+    "-MNgPxhWEZswn8hHWjy-": {
+      "id": "-MNgPxhWEZswn8hHWjy-",
+      "label": "Bakery",
+      "icon": "https://firebasestorage.googleapis.com/v0/b/testefirebase-5a25d.appspot.com/o/categories%2Fic_bread.png?alt=media&token=7a3474da-5a28-4a1d-baf8-d2e55b830db2",
+      "small": {
+        "width": 18,
+        "height": 12
+      },
+      "medium": {
+        "width": 21,
+        "height": 14
+      },
+      "large": {
+        "width": 32,
+        "height": 20
+      }
+    },
+    "-MNgPxw8fotsRv9GIBA3": {
+      "id": "-MNgPxw8fotsRv9GIBA3",
+      "label": "Meat",
+      "icon": "https://firebasestorage.googleapis.com/v0/b/testefirebase-5a25d.appspot.com/o/categories%2Fic_meat.png?alt=media&token=6d94c7d9-e8fd-4529-825b-d085bfb813f2",
+      "small": {
+        "width": 14,
+        "height": 14
+      },
+      "medium": {
+        "width": 18,
+        "height": 18
+      },
+      "large": {
+        "width": 28,
+        "height": 28
+      }
+    },
+    "-MNgPyAsSjltiORppFQX": {
+      "id": "-MNgPyAsSjltiORppFQX",
+      "label": "Bakiwo & Spices",
+      "icon": "https://firebasestorage.googleapis.com/v0/b/testefirebase-5a25d.appspot.com/o/categories%2Fic_spices.png?alt=media&token=ed39b69c-dd1c-404c-9e05-1e18fc48f928",
+      "small": {
+        "width": 14,
+        "height": 14
+      },
+      "medium": {
+        "width": 20,
+        "height": 18
+      },
+      "large": {
+        "width": 28,
+        "height": 28
+      }
+    },
+    "-MNgPyP95bKvCZ77Ol5T": {
+      "id": "-MNgPyP95bKvCZ77Ol5T",
+      "label": "Vegetable",
+      "icon": "https://firebasestorage.googleapis.com/v0/b/testefirebase-5a25d.appspot.com/o/categories%2Fic_vegetable.png?alt=media&token=77819fdf-8b28-46d4-b9b4-71f29dea45bc",
+      "small": {
+        "width": 14,
+        "height": 14
+      },
+      "medium": {
+        "width": 20,
+        "height": 18
+      },
+      "large": {
+        "width": 28,
+        "height": 28
+      }
+    },
+    "-MNgPydElziUB6fN6U4g": {
+      "id": "-MNgPydElziUB6fN6U4g",
+      "label": "Other",
+      "icon": "https://firebasestorage.googleapis.com/v0/b/testefirebase-5a25d.appspot.com/o/categories%2Fic_vegetable.png?alt=media&token=77819fdf-8b28-46d4-b9b4-71f29dea45bc",
+      "small": {
+        "width": 14,
+        "height": 14
+      },
+      "medium": {
+        "width": 20,
+        "height": 18
+      },
+      "large": {
+        "width": 28,
+        "height": 28
+      }
+    }
+  },
+  "Units": {
+    "-MNgJ3W_JJFmPb0lo8uK": {
+      "id": "-MNgJ3W_JJFmPb0lo8uK",
+      "label": "KG",
+      "units": ["kg", "g"]
+    },
+    "-MNgJ3j3cyY8q2peCNzk": {
+      "id": "-MNgJ3j3cyY8q2peCNzk",
+      "label": "L",
+      "units": ["L", "ml"]
+    },
+    "-MNgJ3x4voaeze1FRVvN": {
+      "id": "-MNgJ3x4voaeze1FRVvN",
+      "label": "P",
+      "units": ["p", ""]
+    }
+  }
+}
