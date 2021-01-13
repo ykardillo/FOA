@@ -1,0 +1,5 @@
+[1119/170926.351:ERROR:directory_reader_win.cc(43)] FindFirstFile: Le chemin d’accès spécifié est introuvable. (0x3)
+[1123/184329.199:ERROR:directory_reader_win.cc(43)] FindFirstFile: Le chemin d’accès spécifié est introuvable. (0x3)
+[1210/095335.499:ERROR:directory_reader_win.cc(43)] FindFirstFile: Le chemin d’accès spécifié est introuvable. (0x3)
+[1217/094043.971:ERROR:directory_reader_win.cc(43)] FindFirstFile: Le chemin d’accès spécifié est introuvable. (0x3)
+[1217/144024.283:ERROR:file_io.cc(135)] WriteFile: Le canal de communication est sur le point d’être fermé. (0xE8)

@@ -1,0 +1,716 @@
+{
+  "Users": {
+    "-MJ1S6aD_BlOIKuufGTA": {
+      "id": "-MJ1S6aD_BlOIKuufGTA",
+      "lastname": "Kardillo",
+      "firstname": "Younes",
+      "emailAddress": "ykardillo.yk@gmail.com",
+      "profilImagePath": "https://www.henrimar.com.br/wp-content/uploads/2017/06/random-user-13.jpg"
+    },
+    "-MJ1S71otPanmVE_1c2h": {
+      "id": "-MJ1S71otPanmVE_1c2h",
+      "lastname": "Choqi",
+      "firstname": "Yassine",
+      "emailAddress": "45582@etu.he2b.be",
+      "profilImagePath": "https://www.atlassian.com/fr/dam/jcr:ba03a215-2f45-40f5-8540-b2015223c918/Max-R_Headshot%20(1).jpg"
+    },
+    "-MJkz2Zfdn6KfU1fVH4G": {
+      "id": "-MJkz2Zfdn6KfU1fVH4G",
+      "lastname": "Akachar",
+      "firstname": "Yassine",
+      "emailAddress": "49382@etu.he2b.be",
+      "profilImagePath": "https://i.pinimg.com/originals/ae/ec/c2/aeecc22a67dac7987a80ac0724658493.jpg"
+    }
+  },
+  "Lists": {
+    "-MJ1RBHFCElv5B1u0B8e": {
+      "id": "-MJ1RBHFCElv5B1u0B8e",
+      "name": "Dixant's List",
+      "didFinish": "false",
+      "createdDate": "1605606111646",
+      "updatedDate": "1605606111646",
+      "creatorId": "-MJ1S6aD_BlOIKuufGTA"
+    },
+    "-MJ1RBsTd55vtLPHDeym": {
+      "id": "-MJ1RBsTd55vtLPHDeym",
+      "name": "Nordin Shopping",
+      "didFinish": "true",
+      "createdDate": "1605606111646",
+      "updatedDate": "1605606111646",
+      "creatorId": "-MJ1S71otPanmVE_1c2h"
+    },
+    "-MJ1RC-UomEfN07xSHFQ": {
+      "id": "-MJ1RC-UomEfN07xSHFQ",
+      "name": "Lara's grocery",
+      "didFinish": "false",
+      "createdDate": "1605606111646",
+      "updatedDate": "1605606111646",
+      "creatorId": "-MJ1S71otPanmVE_1c2h"
+    },
+    "-MJ1RC5_7l2HMPJU5kvO": {
+      "id": "-MJ1RC5_7l2HMPJU5kvO",
+      "name": "John Dairy Products",
+      "didFinish": "false",
+      "createdDate": "1605606111646",
+      "updatedDate": "1605606111646",
+      "creatorId": "-MJ1S71otPanmVE_1c2h"
+    },
+    "-MJ1RCBKxc8eMMZbUcv7": {
+      "id": "-MJ1RCBKxc8eMMZbUcv7",
+      "name": "akachar",
+      "didFinish": "false",
+      "createdDate": "1605606111646",
+      "updatedDate": "1605606111646",
+      "creatorId": "-MJkz2Zfdn6KfU1fVH4G"
+    },
+    "-MJ1RDiz5wTdDBxnXQxK": {
+      "id": "-MJ1RDiz5wTdDBxnXQxK",
+      "name": "lidl",
+      "didFinish": "false",
+      "createdDate": "1605606111646",
+      "updatedDate": "1605606111646",
+      "creatorId": "-MJ1S71otPanmVE_1c2h"
+    }
+  },
+  "Items": {
+    "-MJ1S7BeXuNfibXpLSEF": {
+      "id": "-MJ1S7BeXuNfibXpLSEF",
+      "name": "Orange",
+      "overview": "The orange is the fruit of various citrus species in the family Rutaceae (see list of plants known as orange); it primarily refers to Citrus × sinensis,[1] which is also called sweet orange, to distinguish it from the related Citrus × aurantium, referred to as bitter orange. The sweet orange reproduces asexually (apomixis through nucellar embryony); varieties of sweet orange arise through mutations.",
+      "pathImage": "https://21938d87035b057bdf6c-90af61dee2ae7cca81416da93cc58570.ssl.cf3.rackcdn.com/scale/450/300/16c7889854e811b9b4b488ea0e615bae88d4665b.jpg",
+      "category": "fruit",
+      "quantity": "3",
+      "price": "0.89",
+      "unit": "kg",
+      "creatorId": "-MJ1S6aD_BlOIKuufGTA"
+    },
+    "-MJ1SDrFlsk5lctq6ple": {
+      "id": "-MJ1SDrFlsk5lctq6ple",
+      "name": "Salad",
+      "overview": "A salad is a dish consisting of pieces of food in a mixture, with at least one raw ingredient. It is often dressed, and is typically served at room temperature or chilled, though some (such as south German potato salad, or chicken salad) can be served warm.",
+      "pathImage": "https://fr.frije.com/content/recipes/127/800-1.jpg",
+      "category": "Vegetable",
+      "quantity": "1",
+      "price": "1.20",
+      "unit": "p",
+      "creatorId": "-MJ1S6aD_BlOIKuufGTA"
+    },
+    "-MKe3FgMf_IF5DQW3Yik": {
+      "id": "-MKe3FgMf_IF5DQW3Yik",
+      "name": "Chicken",
+      "overview": "",
+      "pathImage": "",
+      "category": "Meat",
+      "quantity": "0.5",
+      "price": "",
+      "unit": "kg",
+      "creatorId": "-MJ1S6aD_BlOIKuufGTA"
+    },
+    "-MKe3FrWLrBehMjoyu4Y": {
+      "id": "-MKe3FrWLrBehMjoyu4Y",
+      "name": "Beef",
+      "overview": "",
+      "pathImage": "",
+      "category": "Meat",
+      "quantity": "1",
+      "price": "",
+      "unit": "kg",
+      "creatorId": "-MJ1S6aD_BlOIKuufGTA"
+    },
+    "-MKe3G1zHOuFTSupP6Ty": {
+      "id": "-MKe3G1zHOuFTSupP6Ty",
+      "name": "Bread",
+      "overview": "",
+      "pathImage": "",
+      "category": "Bakery",
+      "quantity": "2",
+      "price": "",
+      "unit": "",
+      "creatorId": "-MJ1S6aD_BlOIKuufGTA"
+    },
+    "-MKe3GCxzXIr_FkGH57N": {
+      "id": "-MKe3GCxzXIr_FkGH57N",
+      "name": "Small Torleds",
+      "overview": "",
+      "pathImage": "",
+      "category": "Bakery",
+      "quantity": "10",
+      "price": "",
+      "unit": "",
+      "creatorId": "-MJ1S6aD_BlOIKuufGTA"
+    },
+    "-MKe3GOnAP2jAlXr3vB2": {
+      "id": "-MKe3GOnAP2jAlXr3vB2",
+      "name": "Black Pepper",
+      "overview": "",
+      "pathImage": "",
+      "category": "Bakiwo & Spices",
+      "quantity": "",
+      "price": "",
+      "unit": "",
+      "creatorId": "-MJ1S6aD_BlOIKuufGTA"
+    },
+    "-MKe3GdSDR9AmLCMazgl": {
+      "id": "-MKe3GdSDR9AmLCMazgl",
+      "name": "Lumin",
+      "overview": "",
+      "pathImage": "",
+      "category": "Bakiwo & Spices",
+      "quantity": "",
+      "price": "",
+      "unit": "",
+      "creatorId": "-MJ1S6aD_BlOIKuufGTA"
+    },
+    "-MKe3Gqqh_9RqeqoNst1": {
+      "id": "-MKe3Gqqh_9RqeqoNst1",
+      "name": "Salt",
+      "overview": "",
+      "pathImage": "",
+      "category": "Bakiwo & Spices",
+      "quantity": "",
+      "price": "",
+      "unit": "",
+      "creatorId": "-MJ1S6aD_BlOIKuufGTA"
+    },
+    "-MKe3H0FZlbRIOLffhBQ": {
+      "id": "-MKe3H0FZlbRIOLffhBQ",
+      "name": "Sugar",
+      "overview": "",
+      "pathImage": "",
+      "category": "Bakiwo & Spices",
+      "quantity": "",
+      "price": "",
+      "unit": "",
+      "creatorId": "-MJ1S6aD_BlOIKuufGTA"
+    }
+  },
+  "Shops": {
+    "-MJ1SIp31jSy_hu4CM6d": {
+      "id": "-MJ1SIp31jSy_hu4CM6d",
+      "name": "Lidl",
+      "localisation": "Chaussée de Wavre 138, 1050 Ixelles"
+    },
+    "-MJ1SJ-nFMPZ9GO8iGP8": {
+      "id": "-MJ1SJ-nFMPZ9GO8iGP8",
+      "name": "Aldi",
+      "localisation": "Opzichtersstraat Saint Jean BE, Rue de l'Intendant 53, 1080 Molenbeek-Saint-Jean"
+    }
+  },
+  "Users_Lists": {
+    "-MJ1SLUfKBR8aqZcjhaa": {
+      "id": "-MJ1SLUfKBR8aqZcjhaa",
+      "userId": "-MJ1S6aD_BlOIKuufGTA",
+      "listId": "-MJ1RBHFCElv5B1u0B8e",
+      "isDone": "true"
+    },
+    "-MJ1SLnq_lr4OGbyqFot": {
+      "id": "-MJ1SLnq_lr4OGbyqFot",
+      "userId": "-MJ1S71otPanmVE_1c2h",
+      "listId": "-MJ1RBsTd55vtLPHDeym",
+      "isDone": "true"
+    },
+    "-MJ1SM3-NEkkKX3RycrR": {
+      "id": "-MJ1SM3-NEkkKX3RycrR",
+      "userId": "-MJ1S6aD_BlOIKuufGTA",
+      "listId": "-MJ1RC-UomEfN07xSHFQ",
+      "isDone": "false"
+    },
+    "-MJkqKRxPnpy1bFeQG5K": {
+      "id": "-MJkqKRxPnpy1bFeQG5K",
+      "userId": "-MJ1S71otPanmVE_1c2h",
+      "listId": "-MJ1RBHFCElv5B1u0B8e",
+      "isDone": "false"
+    },
+    "-MJkzJ3NmE7OG61pn1U_": {
+      "id": "-MJkzJ3NmE7OG61pn1U_",
+      "userId": "-MJ1S71otPanmVE_1c2h",
+      "listId": "-MJ1RC-UomEfN07xSHFQ",
+      "isDone": "false"
+    },
+    "-MJkzJlQQFcbGQomFjaU": {
+      "id": "-MJkzJlQQFcbGQomFjaU",
+      "userId": "-MJ1S6aD_BlOIKuufGTA",
+      "listId": "-MJ1RC-UomEfN07xSHFQ",
+      "isDone": "false"
+    },
+    "-MJkzKSNy-bupn_vVZsC": {
+      "id": "-MJkzKSNy-bupn_vVZsC",
+      "userId": "-MJkz2Zfdn6KfU1fVH4G",
+      "listId": "-MJ1RC-UomEfN07xSHFQ",
+      "isDone": "true"
+    },
+    "-MJl3jumD5hVq1Y5AICC": {
+      "id": "-MJl3jumD5hVq1Y5AICC",
+      "userId": "-MJ1S71otPanmVE_1c2h",
+      "listId": "-MJ1RC5_7l2HMPJU5kvO",
+      "isDone": "false"
+    },
+    "-MJl3kLss7rNFQJLE7EE": {
+      "id": "-MJl3kLss7rNFQJLE7EE",
+      "userId": "-MJkz2Zfdn6KfU1fVH4G",
+      "listId": "-MJ1RCBKxc8eMMZbUcv7",
+      "isDone": "false"
+    },
+    "-MJl3kvh-KGHJg6tNWlw": {
+      "id": "-MJl3kvh-KGHJg6tNWlw",
+      "userId": "-MJ1S71otPanmVE_1c2h",
+      "listId": "-MJ1RDiz5wTdDBxnXQxK",
+      "isDone": "false"
+    }
+  },
+  "Lists_Items": {
+    "-MJ1SVLtxpv76m725T4b": {
+      "id": "-MJ1SVLtxpv76m725T4b",
+      "listId": "-MJ1RBsTd55vtLPHDeym",
+      "itemId": "-MJ1SDrFlsk5lctq6ple",
+      "didFound": "false",
+      "creatorId": "-MJ1S6aD_BlOIKuufGTA"
+    },
+    "-MJ1SV5oRV2ln2QmF9Nn": {
+      "id": "-MJ1SV5oRV2ln2QmF9Nn",
+      "listId": "-MJ1RBHFCElv5B1u0B8e",
+      "itemId": "-MKe3FgMf_IF5DQW3Yik",
+      "didFound": "false",
+      "creatorId": "-MJ1S71otPanmVE_1c2h"
+    },
+    "-MJ1SVE-sw_NZ0Ely8gs": {
+      "id": "-MJ1SVE-sw_NZ0Ely8gs",
+      "listId": "-MJ1RBHFCElv5B1u0B8e",
+      "itemId": "-MKe3FrWLrBehMjoyu4Y",
+      "didFound": "true",
+      "creatorId": "-MJ1S71otPanmVE_1c2h"
+    },
+    "-MKe3HAyVDnOtnGkrubO": {
+      "id": "-MKe3HAyVDnOtnGkrubO",
+      "listId": "-MJ1RBHFCElv5B1u0B8e",
+      "itemId": "-MKe3G1zHOuFTSupP6Ty",
+      "didFound": "false",
+      "creatorId": "-MJ1S71otPanmVE_1c2h"
+    },
+    "-MKe3HLU4CHuy-2VpGZE": {
+      "id": "-MKe3HLU4CHuy-2VpGZE",
+      "listId": "-MJ1RBHFCElv5B1u0B8e",
+      "itemId": "-MKe3GCxzXIr_FkGH57N",
+      "didFound": "false",
+      "creatorId": "-MJ1S71otPanmVE_1c2h"
+    },
+    "-MKe3HX-hKsa5207S6Dy": {
+      "id": "-MKe3HX-hKsa5207S6Dy",
+      "listId": "-MJ1RBHFCElv5B1u0B8e",
+      "itemId": "-MKe3GOnAP2jAlXr3vB2",
+      "didFound": "true",
+      "creatorId": "-MJ1S71otPanmVE_1c2h"
+    },
+    "-MKe3Hj44KqN4mHdvOCd": {
+      "id": "-MKe3Hj44KqN4mHdvOCd",
+      "listId": "-MJ1RBHFCElv5B1u0B8e",
+      "itemId": "-MKe3GdSDR9AmLCMazgl",
+      "didFound": "false",
+      "creatorId": "-MJ1S71otPanmVE_1c2h"
+    },
+    "-MKe3HyI3irMIUpVnPGU": {
+      "id": "-MKe3HyI3irMIUpVnPGU",
+      "listId": "-MJ1RBHFCElv5B1u0B8e",
+      "itemId": "-MKe3Gqqh_9RqeqoNst1",
+      "didFound": "true",
+      "creatorId": "-MJ1S71otPanmVE_1c2h"
+    },
+    "-MKe3IBCNJwmxDSL-sV8": {
+      "id": "-MKe3IBCNJwmxDSL-sV8",
+      "listId": "-MJ1RBHFCElv5B1u0B8e",
+      "itemId": "-MKe3H0FZlbRIOLffhBQ",
+      "didFound": "false",
+      "creatorId": "-MJ1S71otPanmVE_1c2h"
+    }
+  },
+  "Items_Shops": {
+    "-MJ1SVXbv2iA1A2tuDkf": {
+      "id": "-MJ1SVXbv2iA1A2tuDkf",
+      "itemId": "-MJ1S7BeXuNfibXpLSEF",
+      "shopId": "-MJ1SIp31jSy_hu4CM6d"
+    },
+    "-MJ1SVar6Q4I6sjUEv-4": {
+      "id": "-MJ1SVar6Q4I6sjUEv-4",
+      "itemId": "-MJ1SDrFlsk5lctq6ple",
+      "shopId": "-MJ1SJ-nFMPZ9GO8iGP8"
+    },
+    "-MJ1SVemVgLQJ0kuRT9D": {
+      "id": "-MJ1SVemVgLQJ0kuRT9D",
+      "itemId": "-MJ1S7BeXuNfibXpLSEF",
+      "shopId": "-MJ1SJ-nFMPZ9GO8iGP8"
+    }
+  },
+  "Recipes": {
+    "-MJ1SVirBT4tvIgWIzp2": {
+      "id": "-MJ1SVirBT4tvIgWIzp2",
+      "name": "Muffin",
+      "imagePath": "https://en.wikipedia.org/wiki/Muffin#/media/File:Muffin_NIH.jpg",
+      "overview": "A muffin is an individual-sized, baked product. It can refer to two distinct items, a part-raised flatbread that is baked and then cooked on a griddle (typically unsweetened) and a cupcake-like quickbread (often sweetened) that is chemically leavened and then baked in a mold.",
+      "createdDate": "1605606111646",
+      "updatedDate": "1605606111646",
+      "category": "dessert",
+      "link": "https://www.allrecipes.com/recipe/6874/best-ever-muffins/",
+      "creatorId": "-MJ1S6aD_BlOIKuufGTA"
+    },
+    "-MJ1SVnNtVS92WjmI1lm": {
+      "id": "-MJ1SVnNtVS92WjmI1lm",
+      "name": "Classic Caesar Salad",
+      "imagePath": "https://assets.bonappetit.com/photos/57ae12ef53e63daf11a4e1d6/16:9/w_2560,c_limit/BA-best-classic-caeser-salad.jpg",
+      "overview": "A great Caesar salad recipe gets its swagger from a great Caesar dressing recipe. Squeamish about raw egg yolks and anchovies? Sorry. Yolks are what give richness to the emulsion, while anchovies provide a briny blast (and that whole umami thing). This is part of BA's Best, a collection of our essential recipes.",
+      "createdDate": "1605606111646",
+      "updatedDate": "1605606111646",
+      "category": "entree",
+      "link": "bonappetit.com/recipe/classic-caesar-salad",
+      "creatorId": "-MJ1S71otPanmVE_1c2h"
+    }
+  },
+  "Recipes_Items": {
+    "-MJ1SVrSbWlyAaUEjD2a": {
+      "id": "-MJ1SVrSbWlyAaUEjD2a",
+      "recipeId": "-MJ1SVirBT4tvIgWIzp2",
+      "itemId": "-MJ1S7BeXuNfibXpLSEF"
+    },
+    "-MJ1SW1ipX4Rh2KGaW-5": {
+      "id": "-MJ1SW1ipX4Rh2KGaW-5",
+      "recipeId": "-MJ1SVirBT4tvIgWIzp2",
+      "itemId": "-MJ1SDrFlsk5lctq6ple"
+    },
+    "-MJ1SW7u8bF9ozehX4ne": {
+      "id": "-MJ1SW7u8bF9ozehX4ne",
+      "recipeId": "-MJ1SVnNtVS92WjmI1lm",
+      "itemId": "-MJ1S7BeXuNfibXpLSEF"
+    },
+    "-MJ1SWDj56S5f77oUnjF": {
+      "id": "-MJ1SWDj56S5f77oUnjF",
+      "recipeId": "-MJ1SVnNtVS92WjmI1lm",
+      "itemId": "-MJ1SDrFlsk5lctq6ple"
+    }
+  },
+  "Recipes_Steps": {
+    "-MJ1SWJKJcxyjvureED4": {
+      "id": "-MJ1SWJKJcxyjvureED4",
+      "recipeId": "-MJ1SVirBT4tvIgWIzp2",
+      "step": "Preheat oven to 400 degrees F (205 degrees C)."
+    },
+    "-MJ1SWOvnvZw56MHJCOI": {
+      "id": "-MJ1SWOvnvZw56MHJCOI",
+      "recipeId": "-MJ1SVirBT4tvIgWIzp2",
+      "step": "Stir together the flour, baking powder, salt and sugar in a large bowl. Make a well in the center. In a small bowl or 2 cup measuring cup, beat egg with a fork. Stir in milk and oil. Pour all at once into the well in the flour mixture. Mix quickly and lightly with a fork until moistened, but do not beat. The batter will be lumpy. Pour the batter into paper lined muffin pan cups."
+    },
+    "-MJ1SWUcz40bnPKm3Bm6": {
+      "id": "-MJ1SWUcz40bnPKm3Bm6",
+      "recipeId": "-MJ1SVirBT4tvIgWIzp2",
+      "step": "Variations: Blueberry Muffins: Add 1 cup fresh blueberries. Raisin Muffins: Add 1 cup finely chopped raisins. Date Muffins: Add 1 cup finely chopped dates. Cheese Muffins: Fold in 1 cup grated sharp yellow cheese. Bacon Muffins: Fold 1/4 cup crisp cooked bacon, broken into bits."
+    },
+    "-MJ1SW_JNSkXwLoPCmNS": {
+      "id": "-MJ1SW_JNSkXwLoPCmNS",
+      "recipeId": "-MJ1SVirBT4tvIgWIzp2",
+      "step": "Bake for 25 minutes, or until golden."
+    },
+    "-MJ1SWewCIvRa4IETEZS": {
+      "id": "-MJ1SWewCIvRa4IETEZS",
+      "recipeId": "-MJ1SVnNtVS92WjmI1lm",
+      "step": "Make your own. Tearing, not cutting the bread ensures nooks and crannies that catch the dressing and add texture. Preheat oven to 375°. Toss bread with olive oil on a baking sheet; season with salt and pepper. Bake, tossing occasionally, until golden, 10–15 minutes."
+    },
+    "-MJ1SWkD6ibdX1i2C-w5": {
+      "id": "-MJ1SWkD6ibdX1i2C-w5",
+      "recipeId": "-MJ1SVnNtVS92WjmI1lm",
+      "step": "Use whole leaves; they provide the ideal mix of crispness, surface area, and structure."
+    },
+    "-MJ1SWpxzqgwNBtVe1gR": {
+      "id": "-MJ1SWpxzqgwNBtVe1gR",
+      "recipeId": "-MJ1SVnNtVS92WjmI1lm",
+      "step": "Caesars crowned with a mound of grated Parmesan may look impressive, but all that clumpy cheese mutes the dressing. Instead, use a vegetable peeler to thinly shave a modest amount on top for little salty bursts."
+    },
+    "-MJ1SXA0DejJVVKm5wgt": {
+      "id": "-MJ1SXA0DejJVVKm5wgt",
+      "recipeId": "-MJ1SVnNtVS92WjmI1lm",
+      "step": "Skip the tongs. Use your hands to gently toss the lettuce, croutons, and dressing, then top off with the shaved Parm."
+    }
+  },
+  "Users_Recipes": {
+    "-MJ1X7J0W0LGS0EhJIRC": {
+      "id": "-MJ1X7J0W0LGS0EhJIRC",
+      "userId": "-MJ1S6aD_BlOIKuufGTA",
+      "recipeId": "-MJ1SVirBT4tvIgWIzp2"
+    },
+    "-MJ1X7_jIoNuvmokc0JD": {
+      "id": "-MJ1X7_jIoNuvmokc0JD",
+      "userId": "-MJ1S71otPanmVE_1c2h",
+      "recipeId": "-MJ1SVnNtVS92WjmI1lm"
+    },
+    "-MJ1X7qszgRJ2ZynNhkQ": {
+      "id": "-MJ1X7qszgRJ2ZynNhkQ",
+      "userId": "-MJ1S6aD_BlOIKuufGTA",
+      "recipeId": "-MJ1SVnNtVS92WjmI1lm"
+    }
+  },
+  "ToDo": {
+    "-MJ1X88KP_-230vF4jg7": {
+      "id": "-MJ1X88KP_-230vF4jg7",
+      "name": "Finish Wireframe",
+      "overview": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make",
+      "createdDate": "1607341437014",
+      "updatedDate": "1607341437014",
+      "executionDate": "1607341437014",
+      "creatorId": "-MJ1S6aD_BlOIKuufGTA",
+      "isDone": "false"
+    },
+    "-MJ1X8R_9yjjGBFbQXL7": {
+      "id": "-MJ1X8R_9yjjGBFbQXL7",
+      "name": "Complete one screen design",
+      "overview": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make",
+      "createdDate": "1605606111646",
+      "updatedDate": "1605606111646",
+      "executionDate": "1607341437014",
+      "creatorId": "-MJ1S71otPanmVE_1c2h",
+      "isDone": "false"
+    },
+    "-MM0thnOrP5ZDLqG0WDk": {
+      "id": "-MM0thnOrP5ZDLqG0WDk",
+      "name": "Ami's Birthday",
+      "overview": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make",
+      "createdDate": "1605606111646",
+      "updatedDate": "1605606111646",
+      "executionDate": "1805606111646",
+      "creatorId": "-MJ1S71otPanmVE_1c2h",
+      "isDone": "true"
+    },
+    "-MJBnWm2xnif_iWEWtO8": {
+      "id": "-MJBnWm2xnif_iWEWtO8",
+      "name": "Ami's Birthday",
+      "overview": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make",
+      "createdDate": "1605606111646",
+      "updatedDate": "1605606111646",
+      "executionDate": "1805606111646",
+      "creatorId": "-MJ1S6aD_BlOIKuufGTA",
+      "isDone": "false"
+    },
+    "-MJBi2sIOy-7h_3C4HfV": {
+      "id": "-MJBi2sIOy-7h_3C4HfV",
+      "name": "Buy groceries",
+      "overview": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make",
+      "createdDate": "1605606111646",
+      "updatedDate": "1605606111646",
+      "executionDate": "1805606111646",
+      "creatorId": "-MJ1S6aD_BlOIKuufGTA",
+      "isDone": "true"
+    },
+    "-MJBpH4g43gCNIhozFEa": {
+      "id": "-MJBpH4g43gCNIhozFEa",
+      "name": "Design App",
+      "overview": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make",
+      "createdDate": "1605606111646",
+      "updatedDate": "1605606111646",
+      "executionDate": "1805606111646",
+      "creatorId": "-MJ1S71otPanmVE_1c2h",
+      "isDone": "true"
+    },
+    "-MJBpGOWwVWhO1CNPHUi": {
+      "id": "-MJBpGOWwVWhO1CNPHUi",
+      "name": "Buy groceries",
+      "overview": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make",
+      "createdDate": "1605606111646",
+      "updatedDate": "1605606111646",
+      "executionDate": "1805606111646",
+      "creatorId": "-MJ1S71otPanmVE_1c2h",
+      "isDone": "false"
+    }
+  },
+  "Users_ToDo": {
+    "-MJ1X8jQrKQvo9rPic8G": {
+      "id": "-MJ1X8jQrKQvo9rPic8G",
+      "userId": "-MJ1S71otPanmVE_1c2h",
+      "toDoId": "-MJ1X88KP_-230vF4jg7"
+    },
+    "-MJ1X92CAvLd-qpY9ApU": {
+      "id": "-MJ1X92CAvLd-qpY9ApU",
+      "userId": "-MJ1S6aD_BlOIKuufGTA",
+      "toDoId": "-MJ1X8R_9yjjGBFbQXL7"
+    },
+    "-MJ1X9Md6lNHDAM19LbE": {
+      "id": "-MJ1X9Md6lNHDAM19LbE",
+      "userId": "-MJ1S71otPanmVE_1c2h",
+      "toDoId": "-MJ1X8R_9yjjGBFbQXL7"
+    },
+    "-MJBnW8bFWu7QCM0hidu": {
+      "id": "-MJBnW8bFWu7QCM0hidu",
+      "userId": "-MJ1S71otPanmVE_1c2h",
+      "toDoId": "-MM0thnOrP5ZDLqG0WDk"
+    },
+    "-MJBnVfMRGimZo6LQLUA": {
+      "id": "-MJBnVfMRGimZo6LQLUA",
+      "userId": "-MJ1S6aD_BlOIKuufGTA",
+      "toDoId": "-MJBnWm2xnif_iWEWtO8"
+    },
+    "-MNx1yHF7ZYlXox043I1": {
+      "id": "-MNx1yHF7ZYlXox043I1",
+      "userId": "-MJ1S6aD_BlOIKuufGTA",
+      "toDoId": "-MM0thnOrP5ZDLqG0WDk"
+    },
+    "-MJ6xEfSGmpSvMOOQUrF": {
+      "id": "-MJ6xEfSGmpSvMOOQUrF",
+      "userId": "-MJ1S6aD_BlOIKuufGTA",
+      "toDoId": "-MJBi2sIOy-7h_3C4HfV"
+    },
+    "-MJBpGjjKM79Gd_zFGnr": {
+      "id": "-MJBpGjjKM79Gd_zFGnr",
+      "userId": "-MJ1S71otPanmVE_1c2h",
+      "toDoId": "-MJBpH4g43gCNIhozFEa"
+    },
+    "-MNx1y29Ol3Mh0NgSejQ": {
+      "id": "-MNx1y29Ol3Mh0NgSejQ",
+      "userId": "-MJ1S6aD_BlOIKuufGTA",
+      "toDoId": "-MJBpH4g43gCNIhozFEa"
+    },
+    "-MJBpFAlPzo-e7G3MntS": {
+      "id": "-MJBpFAlPzo-e7G3MntS",
+      "userId": "-MJ1S71otPanmVE_1c2h",
+      "toDoId": "-MJBpGOWwVWhO1CNPHUi"
+    },
+    "-MNx1xo3UhY5f1NlU1pw": {
+      "id": "-MNx1xo3UhY5f1NlU1pw",
+      "userId": "-MJ1S6aD_BlOIKuufGTA",
+      "toDoId": "-MJBpGOWwVWhO1CNPHUi"
+    }
+  },
+  "Events": {
+    "-MJ1X9gZH4EHHcofsyQb": {
+      "id": "-MJ1X9gZH4EHHcofsyQb",
+      "name": "Dentist",
+      "overview": "Accompany children to the dentist",
+      "startDate": "1605610130512",
+      "endDate": "1705606111646",
+      "creatorId": "-MJ1S71otPanmVE_1c2h"
+    },
+    "-MJ1XA0kFZUuAnQ5iD_T": {
+      "id": "-MJ1XA0kFZUuAnQ5iD_T",
+      "name": "Hairdresser",
+      "overview": "Accompany Younes to the hairdresser",
+      "startDate": "1605606111646",
+      "endDate": "1605696111646",
+      "creatorId": "-MJ1S6aD_BlOIKuufGTA"
+    }
+  },
+  "Users_Events": {
+    "-MJ1XAN4WkVQLdu2aB5r": {
+      "id": "-MJ1XAN4WkVQLdu2aB5r",
+      "userId": "-MJ1S71otPanmVE_1c2h",
+      "eventId": "-MJ1X9gZH4EHHcofsyQb"
+    },
+    "-MJ1XAho7bxh80K0Wwk3": {
+      "id": "-MJ1XAho7bxh80K0Wwk3",
+      "userId": "-MJ1S6aD_BlOIKuufGTA",
+      "eventId": "-MJ1XA0kFZUuAnQ5iD_T"
+    },
+    "-MJ1XB3oruXpB_Q468Ii": {
+      "id": "-MJ1XB3oruXpB_Q468Ii",
+      "userId": "-MJ1S71otPanmVE_1c2h",
+      "eventId": "-MJ1XA0kFZUuAnQ5iD_T"
+    }
+  },
+  "Units": {
+    "-MNgJ3W_JJFmPb0lo8uK": {
+      "id": "-MNgJ3W_JJFmPb0lo8uK",
+      "label": "KG",
+      "units": ["kg", "g"]
+    },
+    "-MNgJ3j3cyY8q2peCNzk": {
+      "id": "-MNgJ3j3cyY8q2peCNzk",
+      "label": "L",
+      "units": ["L", "ml"]
+    },
+    "-MNgJ3x4voaeze1FRVvN": {
+      "id": "-MNgJ3x4voaeze1FRVvN",
+      "label": "P",
+      "units": ["p", ""]
+    }
+  },
+  "Categories": {
+    "-MNgPxhWEZswn8hHWjy-": {
+      "id": "-MNgPxhWEZswn8hHWjy-",
+      "label": "Bakery",
+      "icon": "https://firebasestorage.googleapis.com/v0/b/testefirebase-5a25d.appspot.com/o/categories%2Fic_bread.png?alt=media&token=7a3474da-5a28-4a1d-baf8-d2e55b830db2",
+      "small": {
+        "width": 18,
+        "height": 12
+      },
+      "medium": {
+        "width": 21,
+        "height": 14
+      },
+      "large": {
+        "width": 32,
+        "height": 20
+      }
+    },
+    "-MNgPxw8fotsRv9GIBA3": {
+      "id": "-MNgPxw8fotsRv9GIBA3",
+      "label": "Meat",
+      "icon": "https://firebasestorage.googleapis.com/v0/b/testefirebase-5a25d.appspot.com/o/categories%2Fic_meat.png?alt=media&token=6d94c7d9-e8fd-4529-825b-d085bfb813f2",
+      "small": {
+        "width": 14,
+        "height": 14
+      },
+      "medium": {
+        "width": 18,
+        "height": 18
+      },
+      "large": {
+        "width": 28,
+        "height": 28
+      }
+    },
+    "-MNgPyAsSjltiORppFQX": {
+      "id": "-MNgPyAsSjltiORppFQX",
+      "label": "Bakiwo & Spices",
+      "icon": "https://firebasestorage.googleapis.com/v0/b/testefirebase-5a25d.appspot.com/o/categories%2Fic_spices.png?alt=media&token=ed39b69c-dd1c-404c-9e05-1e18fc48f928",
+      "small": {
+        "width": 14,
+        "height": 14
+      },
+      "medium": {
+        "width": 20,
+        "height": 18
+      },
+      "large": {
+        "width": 28,
+        "height": 28
+      }
+    },
+    "-MNgPyP95bKvCZ77Ol5T": {
+      "id": "-MNgPyP95bKvCZ77Ol5T",
+      "label": "Vegetable",
+      "icon": "https://firebasestorage.googleapis.com/v0/b/testefirebase-5a25d.appspot.com/o/categories%2Fic_vegetable.png?alt=media&token=77819fdf-8b28-46d4-b9b4-71f29dea45bc",
+      "small": {
+        "width": 14,
+        "height": 14
+      },
+      "medium": {
+        "width": 20,
+        "height": 18
+      },
+      "large": {
+        "width": 28,
+        "height": 28
+      }
+    },
+    "-MNgPydElziUB6fN6U4g": {
+      "id": "-MNgPydElziUB6fN6U4g",
+      "label": "Other",
+      "icon": "https://firebasestorage.googleapis.com/v0/b/testefirebase-5a25d.appspot.com/o/categories%2Fic_vegetable.png?alt=media&token=77819fdf-8b28-46d4-b9b4-71f29dea45bc",
+      "small": {
+        "width": 14,
+        "height": 14
+      },
+      "medium": {
+        "width": 20,
+        "height": 18
+      },
+      "large": {
+        "width": 28,
+        "height": 28
+      }
+    }
+  }
+}
